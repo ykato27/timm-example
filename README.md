@@ -1,6 +1,6 @@
-# python-template-repository
+# timm-example
 
-本リポジトリはPython 環境のテンプレートリポジトリです。
+backboneとしてのtimm入門
 
 ## リポジトリ構成
 
@@ -33,13 +33,13 @@
 
 ## 環境構築
 
-- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/python-template-repository）
+- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/timm-example）
 
 ```
-cd Desktop/python-template-repository
+cd Desktop/timm-example
 ```
 
-- Dockerによる環境構築（フォルダをマウント：Desktop/python-template-repository）
+- Dockerによる環境構築（フォルダをマウント：Desktop/timm-example）
 
 ```
 docker-compose up --build
